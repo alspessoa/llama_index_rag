@@ -1,4 +1,4 @@
-# llama_parse_sandbox
+# llama_index_sandbox
 
 
 ## Install dependecies
