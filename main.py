@@ -2,9 +2,9 @@ from rag import RAG
 
 
 if __name__ == "__main__":
-    query = 'período intermediário'
+    query = 'Quais os principais desafios?'
     comment = 'descreva em bullet points'
-    raw_documents_path = '/home/andre/llama_parse_sandbox/data'
+    raw_documents_path = '/home/andre/llama_index_rag/data'
 
     try:
         rag = RAG(raw_documents_path=raw_documents_path)
